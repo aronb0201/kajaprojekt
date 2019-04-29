@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.cpp
+dishes.h
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.h
+
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.h
+string
+-
+vector
+-
+ingredient.h
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.h
+
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.h
+string
+-
+vector
+-
+

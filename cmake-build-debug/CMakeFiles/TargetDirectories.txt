@@ -1,0 +1,3 @@
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/akarmi.dir
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

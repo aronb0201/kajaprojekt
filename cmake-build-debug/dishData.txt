@@ -1,0 +1,6 @@
+----------------akarmi----------------
+Ingredient 0 : Baber Amount of it: 1 price: 341
+Ingredient 1 : Csillaganizs Amount of it: 3 price: 1194
+---------- TOTAL PRICE /FOOD ----------
+1535
+--------------------------------------------------
