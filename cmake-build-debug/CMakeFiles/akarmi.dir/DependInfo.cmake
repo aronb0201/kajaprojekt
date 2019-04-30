@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.cpp" "C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/akarmi.dir/dishes.cpp.obj"
-  "C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.cpp" "C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/akarmi.dir/ingredient.cpp.obj"
-  "C:/Users/Titkos/Desktop/CLionProjects/akarmi/main.cpp" "C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/CMakeFiles/akarmi.dir/main.cpp.obj"
+  "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/dishes.cpp" "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/CMakeFiles/akarmi.dir/dishes.cpp.obj"
+  "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.cpp" "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/CMakeFiles/akarmi.dir/ingredient.cpp.obj"
+  "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/main.cpp" "C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/CMakeFiles/akarmi.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

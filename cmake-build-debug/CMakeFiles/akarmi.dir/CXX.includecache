@@ -6,21 +6,45 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.cpp
-dishes.h
-C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.h
-
-C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/dishes.h
 string
 -
 vector
 -
 ingredient.h
-C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.h
 
-C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/func.h
+sstream
+-
+iostream
+-
+vector
+-
+fstream
+-
+ingredient.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.h
+dishes.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/dishes.h
+string
+-
+
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.h
 string
 -
 vector
 -
+
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+ingredient.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.h
+func.h
+C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/func.h
 

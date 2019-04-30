@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="akarmi">
-				<Option output="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/akarmi.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug"/>
+				<Option output="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/akarmi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 akarmi"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 akarmi"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="akarmi/fast">
-				<Option output="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/akarmi.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug"/>
+				<Option output="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/akarmi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,52 +55,52 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 akarmi/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 akarmi/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/akarmi/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.cpp">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/dishes.cpp">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/dishes.h">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/dishes.h">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/func.h">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/func.h">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.cpp">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.cpp">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/ingredient.h">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/ingredient.h">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/main.cpp">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/main.cpp">
 			<Option target="akarmi"/>
 		</Unit>
-		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/akarmi/CMakeLists.txt">
+		<Unit filename="C:/Users/Titkos/Desktop/CLionProjects/kajaprojekt-local/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
