@@ -1,1 +1,2 @@
 # kajaprojekt
+The task is, to provde a simple application that reads the ingredients form a simple .txt database into the program, then the user can choose what she/he needs for the dish that must be calculated. After that, the program can make a documentation into a simple .txt file. My friend works in the hospitality business, he asked me to make this, so he can calculate the cost/dishes and then present it in a simple way.
